@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Juliet Oma",
+      "email": "julie@yahoo.com",
+      "number": "08100000000"
+    },
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    },
+    {
+      "id": "8f29",
+      "name": "dnfgj",
+      "email": "awefg@dkfl",
+      "number": "12345667"
+    },
+    {
+      "id": "d5f2",
+      "name": "sfd",
+      "email": "ftgrh@sfgh",
+      "number": "2345"
+    },
+    {
+      "id": "bade",
+      "name": "ziyod",
+      "email": "ziyod@23gamil.co",
+      "number": "1234567"
+    }
+  ]
+}
